@@ -4,8 +4,6 @@
 1. Rename .envexample to .env 
 2. Run npm run build
 3. Run npm run start:prod
-4. Open docs
-5. Test endpoints : )
 
 ## DOCS
 http://localhost:5000/docs
