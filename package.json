@@ -33,6 +33,7 @@
     "class-validator": "^0.13.2",
     "helmet": "^5.0.2",
     "hybrid-crypto-js": "^0.2.4",
+    "passport": "^0.5.2",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
     "reflect-metadata": "^0.1.13",
